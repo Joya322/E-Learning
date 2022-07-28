@@ -1,3 +1,7 @@
+/* .carousel-item{
+  filter: brightness(50%);
+} */
+
 .carousel-item::before {
   content: "";
   display: block;
@@ -9,7 +13,7 @@
   background-color: rgba(29, 29, 29, 0.7);
   border-radius: 5px;
 }
-.carousel-caption {
+/* .carousel-caption {
   bottom: 150px;
   padding-left: 100px;
   padding-right: 100px;
@@ -57,4 +61,4 @@
     font-size: 14px;
     padding: 5px 10px;
   }
-}
+} */
