@@ -13,6 +13,9 @@
   background-color: rgba(29, 29, 29, 0.7);
   border-radius: 5px;
 }
+.textOrange {
+  color: rgb(226, 81, 28);
+}
 /* .carousel-caption {
   bottom: 150px;
   padding-left: 100px;
