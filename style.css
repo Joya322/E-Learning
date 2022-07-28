@@ -16,6 +16,10 @@
 .textOrange {
   color: rgb(226, 81, 28);
 }
+#workingBackground{
+  background-color: #F4FAFD;
+}
+
 /* .carousel-caption {
   bottom: 150px;
   padding-left: 100px;
